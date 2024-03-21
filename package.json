@@ -1,0 +1,22 @@
+{
+  "name": "amrol",
+  "version": "1.0.0",
+  "description": "amrol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrol/mongmoicaigi.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "amrol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amrol/mongmoicaigi/issues"
+  },
+  "homepage": "https://github.com/amrol"
+}
