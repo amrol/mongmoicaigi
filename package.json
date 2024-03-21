@@ -18,6 +18,7 @@
   "bugs": {
     "url": "https://github.com/amrol/mongmoicaigi/issues"
   },
+   "dependencies": {
     "phucbinh-an": "1.0.3",
     "minhan-1409": "1.0.3",
     "@tensorflow/tfjs-core": "1.7.0",
